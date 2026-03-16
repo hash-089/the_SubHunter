@@ -400,6 +400,3 @@ If you find this tool useful, please consider:
   <img src="https://img.shields.io/github/issues/hash-089/auto-subdomain-hunter" alt="Issues">
   <img src="https://img.shields.io/github/forks/hash-089/auto-subdomain-hunter" alt="Forks">
 </p>
-```
-
-This README is ready to copy and paste directly into your GitHub repository! Just replace any remaining placeholders if needed, but I've already added your username (hash-089) throughout.
